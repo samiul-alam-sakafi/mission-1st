@@ -134,11 +134,25 @@ section{
     ;
 }
 .practice{
-    width: 50%;
+    width: 30%;
     padding: 20px 20px;
+margin: 20px 30px 20px 80px;
 
 }
 .pactice img{
-    width: 50%;
-    padding: 30px 30px;
+    width: 40%
+}
+.pactice{
+    padding: 50px 50px;
+}
+.practice4{
+    display: flex;
+}
+.fourth-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    padding: 10px 10px;
+    border-radius: 10px 10px;
+    color: white;
+    font-weight: 700;
 }
