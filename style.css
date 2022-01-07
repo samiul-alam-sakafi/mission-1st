@@ -1,0 +1,135 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 10px 20px;
+}
+.half-width img{
+    width: 50%;
+}
+.first-link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    padding: 10px 10px;
+    border-radius: 5px 5px;
+    color: white;
+    font-weight: 700;
+}
+.middle{
+    text-align: center;
+}
+.second{
+    display: flex;
+    margin-top: 5%;
+}
+.half-screen{
+    width: 50%;
+    background-color: rgb(18, 138, 194);
+    margin-left: 5%;
+    padding: 20px 20px;
+    border-radius: 5%;
+}
+.middle-screen{
+    width: 50%;
+    background-color: deepskyblue;
+    margin-left: 5%;
+    padding: 20px 20px;
+    border-radius: 5%;
+}
+.side-screen{
+    width: 50%;
+    background-color: mediumpurple;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px 20px;
+    border-radius: 5%;
+}
+.third{
+    display: flex;
+    margin: 100px 90px 200px 90px;
+}
+.right-side img{
+     width: 60%;
+     margin-right: 70%;
+     padding: 60px 10px;
+}
+.text-side{
+   width: 70%;
+   margin-left: 0%;
+   padding: 0%;
+}
+.mission{
+    width: 40%;
+}
+.vission{
+    width: 40%;
+}
+.goal{
+    width: 40%;
+}
+.text{
+    width: 40%;
+}
+.second-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    border-radius: 5px 5px;
+    padding: 10px 10px;
+    color: white;
+    font-weight: 700;
+}
+.fourt-s{
+    display: flex;
+}
+.lastimg{
+    width: 50%;
+    padding: 20px 20px;
+}
+.lastimg img{
+    width: 60%;
+    padding: 60px 60px;
+}
+.last-doc{
+    width: 40%;
+    padding: 20px 20px;
+}
+
+
+.box-st{
+    color: white;
+    font-family: 'Satisfy', cursive;
+}
+
+.center{
+    text-align: center;
+    background-color: black;
+    margin: 0;
+    padding: 20px 20px;
+
+}
+.third-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    border-radius: 5px 5px;
+    padding: 10px 10px;
+    color: white;
+    font-weight: 700;
+}
+.box-end{
+    color: brown;
+    font-family: 'Satisfy', cursive;
+}
+.last-text{
+    color: white;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    ;
+}
